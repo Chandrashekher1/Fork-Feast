@@ -10,7 +10,7 @@ const Footer = () => {
                 <h4 className="">@2024 Fork & Feast Limited</h4>
             </div>
             <div>
-                <h1 className="font-semibold text-2xl cursor-pointer m-5 p-5"><Link to="/about">About us</Link></h1>
+                <h1 className="font-semibold text-2xl cursor-pointer m-5 p-5"><Link to="/about">About Me</Link></h1>
             </div>
             <div className="m-5 px-5">
                 <h2 className="font-bold text-lg">Social Links</h2>
